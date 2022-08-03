@@ -1,20 +1,28 @@
 ## Expo Todo Mobile App
 
 ### Some image about this app
-<p align="center">
-  <p align="center">
-  Login Page 
-  </p>
 
-  <img src="https://github.com/tuanvu9981/TaskCheckExpo/tree/master/assets/screenshot/Login.png" width="100%" />
-  <br />
-  <p align="center">
-  Main Page  
-  </p>
+<table align="center">
+  <tr align="center">
+    <th>
+        <img 
+            src="https://github.com/tuanvu9981/TaskCheckExpo/blob/master/assets/screenshot/Login.png"
+            width="100%" 
+        />
+    </th>
+    <th>
+        <img 
+            src="https://github.com/tuanvu9981/TaskCheckExpo/blob/master/assets/screenshot/TaskList.png"
+            width="100%" 
+        />
+    </th>
+  </tr>
 
-  <img src="https://github.com/tuanvu9981/TaskCheckExpo/tree/master/assets/screenshot/TaskList.png" width="100%" />
-  <br />
-</p>
+  <tr align="center">
+    <td>Login</td>
+    <td>TaskList</td>
+  </tr>
+</table>
 
 ### References: 
 * Youtube
